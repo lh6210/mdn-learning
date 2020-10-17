@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 
 MDN: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_JSON
 Learn web developmentSee JavaScript — Dynamic client-side scriptingSee Introducing JavaScript objectsTest your skills: JSON
 Test your skills: JSON
 
+=======
+>>>>>>> 00035eb75794138249251428233c3db29e1f410a
 const section = document.querySelector('section');
 
 let para1 = document.createElement('p');
