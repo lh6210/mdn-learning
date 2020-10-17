@@ -1,9 +1,8 @@
 <p>
 MDN: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_JSON<br>
-Learn web developmentSee JavaScript — Dynamic client-side scriptingSee Introducing JavaScript objectsTest your skills: JSON<br>
-Test your skills: JSON
+Learn web development>See JavaScript — Dynamic client-side scripting>See Introducing JavaScript objects>Test your skills: JSON<br>
 </p>
-=====================================================
+=====================================================<br>
 // the code that needs to be pasted into the input box
 
 const section = document.querySelector('section');
