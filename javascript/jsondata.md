@@ -3,6 +3,8 @@ MDN: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your
 Learn web developmentSee JavaScript — Dynamic client-side scriptingSee Introducing JavaScript objectsTest your skills: JSON
 Test your skills: JSON
 
+=====================================================
+// the code that needs to be pasted into the input box
 const section = document.querySelector('section');
 
 let para1 = document.createElement('p');
